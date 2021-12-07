@@ -6,13 +6,13 @@ ha ha ha/=    new line (2)
 
 he he he  line (4)
 
-ta ta ta  line (5)
+ta ta ta  line (5)  -- --  --- fix fix fix
 
 new line (6)
 
 pur pur pur line (7)
 
-oh lan lan la  line (8)
+oh lan lan la  line (8)  -- -- --  -- --  --  - -- - - -  (lesson next)
 
 li li line  line (9)
 
